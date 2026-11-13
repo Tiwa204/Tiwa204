@@ -69,12 +69,6 @@ I like work where **numbers, process, and people meet**, and I'm actively lookin
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiwa204&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwa204&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Tiwa204&theme=tokyonight&hide_border=true" />
 </p>
